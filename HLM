@@ -1,0 +1,3 @@
+git remote add origin https://github.com/herilala/hlm-it-services.git
+git branch -M main
+git push -u origin main
